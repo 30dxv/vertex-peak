@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring"))()
-loadstring(game:HttpGet("https://pastefy.app/hREWsnH6/raw", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/30dxv/MM2KINGSCRIPT/refs/heads/main/mm2bestscript",true))()
